@@ -20,9 +20,7 @@ Results from this analysis can be helpful to both consumers looking to identify 
 
 -**Scripts** includes all the code written within jupyter for the analysis
 
--**Analysis** includes data visualizations
-
--**Storyboard** includes a link to the final tableau storyboard
+-**Analysis** includes data visualizations and storyboard slides
 
 ## Key Questions
 
