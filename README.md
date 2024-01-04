@@ -11,6 +11,9 @@ The dataset used was provided by the Washington State Department of Licensing th
 
 Dataset Link: https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2/about_data
 
+## Overview
+Washington State currently has the 3rd most registered electric vehicles in the country and has also recently mandated that 100% of new car sales must be EVs by the year 2030. Manufacturers and consumers alike can benefit from an analysis on the current EV market landscape in Washington. 
+
 ## Objective
 The objective of this analysis is to identify trends in the popularity of different EVs in the state of WA.
 
