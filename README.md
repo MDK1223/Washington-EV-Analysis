@@ -7,7 +7,9 @@ Washington state has mandated that, by 2030, all new car sales must be electric 
 Tableau Storyboard Link: https://public.tableau.com/views/WashingtonStateElectricVehiclePopulationData/WashingtonStateEVPopulationData?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ## Data
-The dataset used was provided by the Washington State Department of Licensing through https://data.wa.gov. It contains data for all battery electric vehicles (BEVs) and plug-in hybrid electric vehicles (PHEVs)
+The dataset used was provided by the Washington State Department of Licensing through data.wa.gov. It contains data for all battery electric vehicles (BEVs) and plug-in hybrid electric vehicles (PHEVs)
+
+Dataset Link: https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2/about_data
 
 ## Objective
 The objective of this analysis is to identify trends in the popularity of different EVs in the state of WA.
